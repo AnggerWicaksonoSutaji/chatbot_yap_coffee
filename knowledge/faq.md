@@ -42,20 +42,17 @@ Menu mungkin sudah habis, atau penjual belum menambahkan menu tersebut ke aplika
 
 ## Menu apa saja yang tersedia?
 Daftar menu diatur penjual dan bisa berubah. Lihat daftar terbaru di halaman Menu.
-Contoh menu saat ini: Es Kopi Susu Gula Aren, Americano Hot, Cappuccino, V60 Pour Over, Yap Latte, Matcha Latte Dingin, dan Butter Croissant.
+
 
 ## Pilihan apa saja yang bisa saya atur saat memesan?
 Anda bisa mengatur jumlah, ukuran gelas, dan tingkat manis.
-Contoh saat ini: ukuran Reguler (16 oz) atau Large (22 oz), tingkat manis Normal, Less Sugar, atau No Sugar.
-Opsi bisa berbeda untuk tiap menu. Lihat di lembar "Tambahkan Menu".
+
 
 ## Berapa tambahan biaya untuk ukuran Large?
-Contoh saat ini: Large (22 oz) menambah Rp 5.000, sedangkan Reguler (16 oz) tanpa tambahan.
 Biaya bisa berbeda tiap menu. Biaya pastinya tampil di lembar "Tambahkan Menu".
 
 ## Berapa harga menu di Yap Coffee?
 Harga diatur penjual dan bisa berubah. Lihat harga terbaru di halaman Menu.
-Contoh harga saat ini: Americano Hot Rp 18.000, Es Kopi Susu Gula Aren Rp 22.000, Cappuccino Rp 25.000, V60 Pour Over Rp 30.000.
 
 ## Bagaimana cara membayar?
 Lewat QRIS. QRIS tampil setelah Anda menekan "Konfirmasi Pre Order".
