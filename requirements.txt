@@ -1,0 +1,5 @@
+chromadb
+ollama
+fastapi
+uvicorn
+pydantic>=2
